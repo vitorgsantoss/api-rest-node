@@ -6,4 +6,3 @@ node_modules
 junk.js
 pull-server.sh
 sync.sh
-db.sqlite
